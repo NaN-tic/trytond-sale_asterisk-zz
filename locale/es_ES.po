@@ -1,0 +1,43 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:sale.asterisk.result,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:sale.asterisk.result,phone:"
+msgid "Contact & Phone"
+msgstr "Contacto y teléfono"
+
+msgctxt "model:ir.action,name:wizard_sale_asterisk"
+msgid "Call Phone"
+msgstr "Llamada telefónica"
+
+msgctxt "model:sale.asterisk.result,name:"
+msgid "Sale Asterisk Result"
+msgstr "Resultado Asterisk Venta"
+
+msgctxt "view:party.contact_mechanism:"
+msgid "Dial"
+msgstr "Marcar"
+
+msgctxt "view:party.contact_mechanism:"
+msgid "Phones"
+msgstr "Teléfonos"
+
+msgctxt "view:sale.asterisk.result:"
+msgid "Call Phone"
+msgstr "Llamada telefónica"
+
+msgctxt "view:sale.asterisk.result:"
+msgid "Select the contact to call..."
+msgstr "Seleccione el contacto para llamar..."
+
+msgctxt "wizard_button:sale.asterisk,result,dial:"
+msgid "Dial"
+msgstr "Marcar"
+
+msgctxt "wizard_button:sale.asterisk,result,end:"
+msgid "Cancel"
+msgstr "Cancelar"
