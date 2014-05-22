@@ -58,7 +58,7 @@ class SaleAsterisk(Wizard):
         mechanisms = list(set(mechanisms))
         return {
             'allowed_contacts_mechanisms': [m.id for m in mechanisms],
-            'contact_mechanisms': mechanisms[0].id
+            'contact_mechanisms': mechanisms and mechanisms[0].id or None
             }
 
     def transition_dial(self, values=False):
